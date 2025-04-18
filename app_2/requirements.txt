@@ -1,0 +1,5 @@
+# Dependencias del proyecto
+# Requeridas para el funcionamiento de la API
+fastapi
+uvicorn
+pydantic
