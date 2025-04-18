@@ -8,6 +8,7 @@
 Crear un proceso con las herramientas disponibles por el usuario.
 
 ### Herramientas utilizadas 
+- Entonrno de desarrollo: Visual Studio Code
 - Lenguaje: Python 3
 - Base de datos: PostgresSQL
 - Contenedores: Docker
